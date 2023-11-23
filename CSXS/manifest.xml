@@ -42,7 +42,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 					<Geometry>
 						<Size>
 							<Height>300</Height>
-							<Width>180</Width>
+							<Width>600</Width>
 						</Size>
 					</Geometry>
 				</UI>
